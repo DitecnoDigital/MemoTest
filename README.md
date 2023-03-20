@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/JuegoDelAhorcadoC-/blob/main/PortadaJuegoAhorcado.png)
+![This is me](https://github.com/DitecnoDigital/MemoTest/blob/main/portada.png)
 
 # Juego "MemoTest"
 Tutorial de como realizar "Juego de Memoria " en  lenguaje C++ donde puedes ver el paso a paso en:
