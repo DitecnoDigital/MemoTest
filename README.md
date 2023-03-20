@@ -34,6 +34,9 @@ El código Fuente se encuentra en este repositorio, archivo con extención cpp.
 Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones en diferentes Sistemas Operativos. 
 
     La declaración de la Matriz varía segun el compilador.
+    Los Recursos como Fuentes y Sprites se encuentran en este mismo repositorio.
+    Los encabezados de las clases Ficha e Interfaz tienen extención .hpp y el desarrollo de los metodos y contructores
+    Ficha e Interfaz tienen extención .cpp
 
 ### Realizado por:
             Juan José Läderach con fines educativos el 20 de marzo del 2023
