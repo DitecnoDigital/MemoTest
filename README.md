@@ -38,6 +38,15 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
     Los encabezados de las clases Ficha e Interfaz tienen extención .hpp y el desarrollo de los metodos y contructores
     Ficha e Interfaz tienen extención .cpp
 
+### Tutorial para  instalar MinGW para usar g++ en la consola:
+
+[![](https://img.shields.io/badge/DitecnoMakers-MinGW-blue)](https://ditecnomakers.com/uso-de-g-para-compilar-programas-en-c/)
+
+
+### Tutorial de como usar g++ en la consola: 
+   
+ [![](https://img.shields.io/badge/DitecnoMakers-g++-blue)](https://ditecnomakers.com/utilizar-g-para-compilar-por-consola/)  
+
 ### Realizado por:
             Juan José Läderach con fines educativos el 20 de marzo del 2023
 
